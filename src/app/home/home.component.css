@@ -1,0 +1,9 @@
+img.picture1 {
+  width:100px; /*width of your image*/
+  height:100px; /*height of your image*/
+  display: block;
+}
+
+.btn {
+  border-radius: 25%;
+}
